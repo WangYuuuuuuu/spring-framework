@@ -60,13 +60,13 @@ dependencies {
 	testCompile("org.xmlunit:xmlunit-matchers")
 	testCompile(project(":kotlin-coroutines"))
 	testCompile("io.projectreactor.tools:blockhound")
-	testFixturesImplementation("io.projectreactor:reactor-test")
-	testFixturesImplementation("com.google.code.findbugs:jsr305")
-	testFixturesImplementation("org.junit.platform:junit-platform-launcher")
-	testFixturesImplementation("org.junit.jupiter:junit-jupiter-api")
-	testFixturesImplementation("org.junit.jupiter:junit-jupiter-params")
-	testFixturesImplementation("org.assertj:assertj-core")
-	testFixturesImplementation("org.xmlunit:xmlunit-assertj")
+//	testFixturesImplementation("io.projectreactor:reactor-test")
+//	testFixturesImplementation("com.google.code.findbugs:jsr305")
+//	testFixturesImplementation("org.junit.platform:junit-platform-launcher")
+//	testFixturesImplementation("org.junit.jupiter:junit-jupiter-api")
+//	testFixturesImplementation("org.junit.jupiter:junit-jupiter-params")
+//	testFixturesImplementation("org.assertj:assertj-core")
+//	testFixturesImplementation("org.xmlunit:xmlunit-assertj")
 }
 
 jar {
